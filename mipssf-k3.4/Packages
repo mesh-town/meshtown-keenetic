@@ -1,0 +1,14 @@
+Package: meshtown
+Version: 0.3.96-r1
+Section: net
+Architecture: mips-3.4
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown
+Installed-Size: 9644090
+Filename: meshtown_0.3.96-r1_mips-3.4.ipk
+Size: 4042631
+SHA256sum: ce6efbfb7e7fc27674c64aa3e7504b8beb8176ab2204e4eafbefebbfad8e35b0
+Description: Mesh Town node: private mesh network (static binary)
+
+
